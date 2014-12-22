@@ -35,9 +35,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The play of the wether. A newe and very mery enterlude of all maner wethers made by Iohn Heywood. Th
+
 #####Body#####
-The play of the wether. A newe and very mery enterlude of all maner wethers made by Iohn Heywood. Th
+¶Iupyter,RYght farre to longe as nowe were to recyteThe anciēt eſtat wherin our ſelfe hath reynedWh
 **Types of content**
 
   * There are 1241 **verse** lines!
